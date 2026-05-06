@@ -6,12 +6,13 @@
     font-weight: 700;
     font-size: 18px;
     color: inherit;
-    line-height: 1,33333;
+    line-height: 1.33333;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     text-decoration: none;
 }
-.main-title-header:hover {
+.main-title-header:hover,
+.main-title-header:focus {
     color: #404bbf;
 }
 .navi-list li a {
@@ -25,7 +26,8 @@
     text-decoration: none;
     color: inherit;
 }
-.navi-list li a:hover {
+.navi-list li a:hover,
+.navi-list li a:focus {
     color: #404bbf;
 }
    
@@ -38,8 +40,8 @@
     color: #434455;
     text-decoration: none;
     text-align: inherit;
-    color: inherit;
 }
-.contact-list li a:hover {
+.contact-list li a:hover,
+.contact-list li a:focus {
     color: #404bbf;
 }
