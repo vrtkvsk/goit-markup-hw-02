@@ -1,0 +1,20 @@
+#hero {
+   background-color: #2e2f42;
+}
+#hero h1 {
+font-weight: 700;
+font-size: 56px;
+color: #fff;
+text-align: center;
+}
+.order-button {
+    background-color: #4d5ae5;
+    font-weight: 500;
+    font-size: 16;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #fff;
+}
+.order-button:hover {
+    background-color: #404bbf;
+}
