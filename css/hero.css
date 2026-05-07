@@ -1,20 +1,24 @@
-#hero {
+.section-hero {
    background-color: #2e2f42;
 }
-#hero h1 {
+.section-hero h1 {
 font-weight: 700;
 font-size: 56px;
+line-height: 1.11111;
+letter-spacing: 0.02em;
 color: #fff;
 text-align: center;
 }
 .order-button {
     background-color: #4d5ae5;
     font-weight: 500;
-    font-size: 16;
+    font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #fff;
+    cursor: pointer;
 }
-.order-button:hover {
+.order-button:hover,
+.order-button:focus {
     background-color: #404bbf;
 }

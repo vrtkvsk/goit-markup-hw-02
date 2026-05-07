@@ -1,24 +1,24 @@
-#team {
+.section-team {
     background-color: #f4f4fd;
 }
-#team h2 {
+.section-team h2 {
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11111;
     letter-spacing: 0.02em;
     text-align: center;
 }
-#team div {
+.section-team li {
     background-color: #fff;
 }
-#team h3 {
+.section-team h3 {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     text-align: center;
 }
-#team p {
+.section-team p {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;

@@ -1,16 +1,16 @@
-#features h2 {
+.section-features h2 {
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11111;
     letter-spacing: 0.02em;
 }
-#features h3 {
+.section-features h3 {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
 }
-#features p {
+.section-features p {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
